@@ -6,9 +6,9 @@
   </head>
 
   <body>
-    <h1>Who Is SonnyCarton?</h1>
+    <h1>Who Is Sonny Carton?</h1>
 
-    <p>My name is SonnyCarton and I'm a student at the University of Miami who loves the New York Knicks</p>
+    <p>My name is Sonny Carton and I'm a student at the University of Miami who loves the New York Knicks</p>
 
     <p>I started loving the Knicks ever since I grew up in New York</p>
 
