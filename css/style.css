@@ -4,13 +4,13 @@ body {
 }
 
 a:hover {
-  background-color: rgba(107, 204, 218, 0.8)
+  background-color: rgba(107, 204, 218, 0.42)
 }
 
 section {
   margin-bottom: 13px;
   padding: 13px;
-  background-color: rgba(107,204,218, 0.8)
+  background-color: rgba(107,204,218, 0.42)
 }
 
 h2 {
