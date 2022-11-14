@@ -7,6 +7,11 @@ a:hover {
   background-color: rgba(107, 204, 218, 0.8)
 }
 
+section {
+  margin-bottom: 13px;
+  padding: 13px;
+  background-color: rgba(107,204,218, 0.8)
+}
 
 h2 {
   color: rgb(100,50,70);
