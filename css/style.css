@@ -1,18 +1,23 @@
+header {
+  display: grid;
+  grid-template-columns: 1fr
+  background-color: rgba(55,100,145,0.20);
+  border: 1px dashed rgb(55, 100, 145);
+  grid-template-areas:
+    "thebahamas"
+}
+
+
 main {
   display: grid;
   grid-template-columns: repeat(3,1fr);
-  grid-gap: 10px;
+  grid-gap: 20px;
+  grid-template-areas:
+    "picture1 introduction introduction"
+    "energy communications Communications"
+    "energy geography picture2"
 }
 
-
-
-
-header {
-  display: grid;
-  grid-template-columns: 3fr
-  background-color: rgba(55,100,145,0.20);
-  border: 1px dashed rgb(55, 100, 145);
-}
 
 /*
 h1 {
@@ -25,7 +30,8 @@ h1 {
 
 
 
-
+#thebahamas {
+  grid-area: thebahamas;
 }
 
 #introduction {
@@ -38,4 +44,12 @@ h1 {
 
 #energy {
   grid-area: energy;
+}
+
+#picture1 {
+  grid-area: picture1;
+}
+
+#picture2 {
+  grid-area: picture2;
 }
