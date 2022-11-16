@@ -7,7 +7,7 @@ body {
   font-family: "Roboto", sans-serif;
   font-size: 16px
   border: 2px dashed #111;
-  overflow-x: auto;
+
 }
 
 
@@ -22,6 +22,9 @@ main {
     "energy geography picture2"
 }
 
+main {
+  grid-template-rows: repeat(3, 1fr)
+}
 
 /*
 h1 {
