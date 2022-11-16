@@ -1,31 +1,30 @@
+main {
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  grid-gap: 10px;
+}
+
+
+
 
 header {
   display: grid;
   grid-template-columns: 3fr
+  background-color: rgba(55,100,145,0.20);
+  border: 1px dashed rgb(55, 100, 145);
 }
 
+/*
 h1 {
   width: 100px;
   border: 15px;
   padding: 5px;
   Margin: 5px;
 }
+*/
 
 
 
-header {
-  background-color: rgba(55,100,145,0.20);
-  border: 1px dashed rgb(55, 100, 145);
-}
-
-]
-
-}
-
-
-
-
-#thebahamas {
 
 }
 
