@@ -19,9 +19,8 @@ h1 {
 
 
 #thebahamas {
-  position: relative;
-  top: 5px;
-  left: 5px;
+  background-color: rgba(55,100,145,0.20);
+  border: 1px dashed rgb(55, 100, 145);
 }
 
 #introduction {
