@@ -3,6 +3,7 @@ header {
   grid-template-columns: 1fr
   background-color: rgba(55,100,145,0.20);
   border: 1px dashed rgb(55, 100, 145);
+  margin-top: 10px
   grid-template-areas:
     "thebahamas"
 }
