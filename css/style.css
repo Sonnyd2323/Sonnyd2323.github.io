@@ -2,6 +2,10 @@ header {
   position: relative;
 }
 
+body {
+  border: 2px dashed #111;
+}
+
 
 main {
   border: 2px dashed #111;
