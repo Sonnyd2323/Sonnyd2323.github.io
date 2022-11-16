@@ -18,13 +18,15 @@ main {
   grid-gap: 20px;
   grid-template-areas:
     "picture1 introduction introduction"
-    "energy communications Communications"
+    "energy communications communications"
     "energy geography picture2"
 }
-
+/*
 main {
   grid-template-rows: repeat(3, 1fr)
 }
+*/
+
 
 /*
 h1 {
