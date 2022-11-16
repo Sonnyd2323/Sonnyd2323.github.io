@@ -1,5 +1,12 @@
+head {
+  grid-template-columns: 3fr
 
-/*body {
+
+}
+
+
+
+body {
   font-family: "Arial", "Tahoma";
   line-height: 1.5;
   max-width: 960px;
@@ -53,6 +60,13 @@ main {
   grid-template-areas:
     "introduction  introduction"
     "geography     energy";
+}
+
+
+#thebahamas {
+  position; relative;
+  top: 15px;
+  left: 15px;
 }
 
 #introduction {
