@@ -6,7 +6,6 @@ head {
 }
 
 
-
 body {
   font-family: "Arial", "Tahoma";
   line-height: 1.5;
@@ -15,52 +14,6 @@ body {
   display: grid;
   grid-template-columns: 2fr 1fr;
   grid-gap: 20px;
-}
-
-a:hover {
-  background-color: rgba(107, 204, 218, 0.42)
-}
-
-section {
-  margin-bottom: 13px;
-  padding: 13px;
-  background-color: rgba(107,204,218, 0.42)
-}
-
-h2 {
-  margin-top: 0;
-  color: rgb(100,50,70);
-}
-
-
-header,
-nav,
-footer {
-  background-color: #eee;
-}
-
-section {
-  background-color: #ddd;
-  padding: 20px;
-}
-
-section p {
-  margin-bottom: 0;
-}
-
-footer {
-  padding-left: 20px;
-  grid-column: 1 / -1;
-}
-
-main {
-  display: grid;
-  grid-template-columns: 2fr 1fr;
-  grid-gap: 20px;
-  grid-template-areas:
-    "introduction  introduction"
-    "geography     energy";
-}
 
 
 #thebahamas {
