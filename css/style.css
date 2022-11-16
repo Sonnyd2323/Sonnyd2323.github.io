@@ -11,6 +11,11 @@ h1 {
   Margin: 5px;
 }
 
+header {
+  background-color: rgba(55,100,145,0.20);
+  border: 1px dashed rgb(55, 100, 145);
+}
+
 ]
 
 }
@@ -19,8 +24,7 @@ h1 {
 
 
 #thebahamas {
-  background-color: rgba(55,100,145,0.20);
-  border: 1px dashed rgb(55, 100, 145);
+  
 }
 
 #introduction {
