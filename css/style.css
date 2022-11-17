@@ -44,6 +44,7 @@ h1 {
 section {
   background-color: #ddd;
   padding: 20px;
+  overflow-wrap: break-word;
 }
 
 
@@ -71,6 +72,7 @@ section {
 #communications {
   grid-area: communications;
   grid-row: 2 / span 1
+
 }
 
 #picture1 {
