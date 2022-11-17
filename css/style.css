@@ -108,11 +108,13 @@ section {
 
 #telephones {
   grid-area: telephones;
+  min-width: 200px;
 }
 
 #broadcastmedia {
   grid-area: broadcastmedia;
   max-width: 325px;
+
 }
 
 #internetusers {
