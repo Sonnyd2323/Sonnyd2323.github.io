@@ -86,7 +86,7 @@ section {
 
 #communications {
   grid-area: communications;
-  max-height: 100px;
+
   /*
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
