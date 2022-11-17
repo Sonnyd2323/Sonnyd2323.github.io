@@ -40,7 +40,7 @@ h1 {
 
 
 #thebahamas {
-  grid-area: thebahamas;
+  grid-column: 1 / span 3;
   background-color: rgba(200, 50, 20, 0.5);
 }
 
@@ -54,6 +54,10 @@ h1 {
 
 #energy {
   grid-area: energy;
+}
+
+#communications {
+  grid-area: communications;
 }
 
 #picture1 {
