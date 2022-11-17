@@ -67,7 +67,6 @@ section {
 
 
 
-
 #thebahamas {
   grid-area: thebahamas;
   grid-column: 1 / span 3;
@@ -99,17 +98,19 @@ section {
   grid-column: 2 / span 2;
 
 
+
+
 }
 
-#telephones {
+.telephones {
   grid-area: telephones;
 }
 
-#broadcastmedia {
+.broadcastmedia {
   grid-area: broadcastmedia;
 }
 
-#internetusers {
+.internetusers {
   grid-area: internetusers;
 }
 
