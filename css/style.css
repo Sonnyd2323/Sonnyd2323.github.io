@@ -97,7 +97,7 @@ section {
 #communications {
   grid-area: communications;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
 }
 
 
