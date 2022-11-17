@@ -103,6 +103,14 @@ section {
   grid-area: telephones;
 }
 
+#broadcastmedia {
+  grid-area: broadcastmedia;
+}
+
+#internetusers {
+  grid-area: internetusers;
+}
+
 #picture1 {
   grid-area: picture1;
   /*
