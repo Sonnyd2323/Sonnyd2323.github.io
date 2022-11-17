@@ -70,6 +70,8 @@ h1 {
 section {
   background-color: rgba(150, 241, 242, 0.5);
   padding: 20px;
+  max-width: 960px;
+  min-width: 500px;
 }
 
 
@@ -81,8 +83,6 @@ section {
 
 #introduction {
   grid-area: introduction;
-  max-width: 960px;
-  min-width: 500px;
 }
 
 #geography {
