@@ -1,6 +1,7 @@
 header {
   width: 200px;
   margin: 5px;
+  display: grid;
   grid-template-columns: 3fr
   grid-template-areas:
     "thebahamas thebahamas thebahamas"
