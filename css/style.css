@@ -96,10 +96,9 @@ section {
     "telephones broadcastmedia internetusers"
     "telephones broadcastmedia internetusers";
   grid-area: communications;
-  /*
   grid-row: 2 / span 1;
   grid-column: 2 / span 2;
-  */
+
 }
 
 #telephones {
