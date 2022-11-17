@@ -102,7 +102,7 @@ section {
 .itemrow {
   display: flex;
   flex-direction: row;
-  flex: 3 4 3
+  flex: 3 4 3;
 }
 
 
