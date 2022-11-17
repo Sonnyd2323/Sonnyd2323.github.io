@@ -3,13 +3,16 @@ header {
   margin: 5px;
   padding: 5px;
   display: grid;
-  grid-template-columns: 1fr
+  grid-template-columns: 3fr;
+  grid-template-areas: "thebahamas thebahamas thebahamas";
+
+
 
 }
 
 body {
   font-family: Arial, sans-serif;
-  font-size: 12px
+  font-size: 12px;
   border: 2px dashed #111;
 
 }
@@ -23,7 +26,7 @@ main {
   grid-template-areas:
     "picture1 introduction introduction"
     "energy communications communications"
-    "energy geography picture2"
+    "energy geography picture2";
 }
 /*
 main {
@@ -44,7 +47,6 @@ h1 {
 section {
   background-color: #ddd;
   padding: 20px;
-  overflow-wrap: break-word;
 }
 
 
