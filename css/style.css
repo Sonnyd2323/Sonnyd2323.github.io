@@ -89,8 +89,10 @@ section {
 }
 
 #communications {
+  display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-areas:
+    "telephones broadcastmedia internetusers"
     "telephones broadcastmedia internetusers"
     "telephones broadcastmedia internetusers";
   grid-area: communications;
@@ -102,7 +104,6 @@ section {
 
 #telephones {
   grid-area: telephones;
-  grid-row: 1 / span 2;
 }
 
 #picture1 {
