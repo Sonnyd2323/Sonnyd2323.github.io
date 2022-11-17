@@ -81,6 +81,8 @@ section {
 
 #introduction {
   grid-area: introduction;
+  max-width: 960px;
+  min-width: 500px;
 }
 
 #geography {
