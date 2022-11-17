@@ -73,7 +73,8 @@ section {
 
 #communications {
   grid-area: communications;
-  grid-row: 2 / span 1
+  grid-row: 2 / span 1;
+  margin: 50px;
 
 }
 
