@@ -24,7 +24,7 @@ main {
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 10px;
   grid-template-areas:
-    "picture1 introduction introduction"
+    "introduction introduction picture1"
     "energy communications communications"
     "energy geography picture2";
 }
