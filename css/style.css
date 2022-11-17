@@ -61,7 +61,7 @@ h1 {
 */
 
 section {
-  background-color: #ddd;
+  background-color: rgba(150, 241, 242, 0.5);
   padding: 20px;
 }
 
@@ -71,7 +71,7 @@ section {
 #thebahamas {
   grid-area: thebahamas;
   grid-column: 1 / span 3;
-  background-color: rgba(200, 50, 20, 0.5);
+  background-color: rgba(150, 241, 242, 0.5);
 }
 
 #introduction {
