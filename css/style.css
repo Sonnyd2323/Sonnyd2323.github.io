@@ -108,7 +108,7 @@ section {
 
 #telephones {
   grid-area: telephones;
-  min-width: 500px;
+  min-width: 200px;
 }
 
 #broadcastmedia {
