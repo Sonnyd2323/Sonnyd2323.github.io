@@ -28,12 +28,12 @@ main {
     "energy communications communications"
     "energy geography picture2";
 }
-
+/*
 h2 {
   font-family: Roboto, sans-serif;
-  
-}
 
+}
+*/
 
 
 a:link {
@@ -93,11 +93,12 @@ section {
 
 #communications {
   grid-area: communications;
-
+  grid-template-columns: repeat(3 1fr);
+  grid-template-areas: "telephones broadcastmedia internetusers";
 }
 
 
-.telephones {
+#telephones {
   grid-area: telephones;
 }
 
