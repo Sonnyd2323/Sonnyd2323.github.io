@@ -92,21 +92,17 @@ section {
   grid-template-rows: 1fr;
   grid-template-areas:
     "telephones broadcastmedia internetusers";
-
-
 }
 
-#telephones {
+.telephones {
   grid-area: telephones;
-  grid-column: 1 / span 1;
 }
 
-#broadcastmedia {
+.broadcastmedia {
   grid-area: broadcastmedia;
-  grid-column: 1 / span 1;
 }
 
-#internetusers {
+.internetusers {
   grid-area: internetusers;
 }
 
