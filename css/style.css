@@ -83,7 +83,6 @@ section {
 
 #energy {
   grid-area: energy;
-
 }
 
 #communications {
@@ -99,10 +98,12 @@ section {
 
 #telephones {
   grid-area: telephones;
+  grid-column: 1 / span 1;
 }
 
 #broadcastmedia {
   grid-area: broadcastmedia;
+  grid-column: 1 / span 1;
 }
 
 #internetusers {
