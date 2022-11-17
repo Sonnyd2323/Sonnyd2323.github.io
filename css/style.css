@@ -95,7 +95,9 @@ section {
   grid-template-rows: 1fr;
   grid-template-areas:
     "telephones broadcastmedia internetusers";
+    /*
   grid-column: 2 / span 2;
+  */
 
 }
 
