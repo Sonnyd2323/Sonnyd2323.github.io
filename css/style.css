@@ -28,6 +28,22 @@ main {
     "energy communications communications"
     "energy geography picture2";
 }
+
+a:link {
+  color: rgb(255,0,0)
+}
+
+a:visited {
+  color:
+}
+
+a:hover {
+  color:
+}
+
+a:active {
+  color:
+}
 /*
 main {
   grid-template-rows: repeat(3, 1fr)
