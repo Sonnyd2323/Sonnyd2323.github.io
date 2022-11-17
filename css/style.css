@@ -89,15 +89,14 @@ section {
 }
 
 #communications {
+  grid-area: communications;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-areas:
     "telephones broadcastmedia internetusers"
     "telephones broadcastmedia internetusers"
     "telephones broadcastmedia internetusers";
-  grid-area: communications;
-  grid-row: 2 / span 1;
-  grid-column: 2 / span 2;
+  grid-column: 2 / span 3;
 
 }
 
