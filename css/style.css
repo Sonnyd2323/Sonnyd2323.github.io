@@ -96,8 +96,8 @@ section {
 
 #communications {
   grid-area: communications;
-  grid-template-columns: repeat(3 1fr);
-  grid-template-areas: "telephones broadcastmedia internetusers";
+  display: flex;
+  flex-direction: column;
 }
 
 
