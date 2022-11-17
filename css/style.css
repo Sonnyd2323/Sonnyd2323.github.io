@@ -102,11 +102,11 @@ section {
   grid-area: telephones;
 }
 
-.broadcastmedia {
+#broadcastmedia {
   grid-area: broadcastmedia;
 }
 
-.internetusers {
+#internetusers {
   grid-area: internetusers;
 }
 
