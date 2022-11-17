@@ -96,9 +96,12 @@ section {
 
 #picture1 {
   grid-area: picture1;
+  /*
   background-color: #ddd;
+  */
   padding: 20px;
   grid-gap: 20px;
+
 }
 
 #picture2 {
