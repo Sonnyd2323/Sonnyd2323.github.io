@@ -100,6 +100,11 @@ section {
   */
 }
 
+#telephones {
+  grid-area: telephones;
+  grid-row: 1 / span 2;
+}
+
 #picture1 {
   grid-area: picture1;
   /*
