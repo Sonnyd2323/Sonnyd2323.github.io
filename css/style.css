@@ -25,7 +25,7 @@ main {
   grid-gap: 10px;
   grid-template-areas:
     "introduction introduction picture1"
-    "energy communications communications"
+    "energy geography communications"
     "energy geography picture2";
   line-height: 25px;
 
