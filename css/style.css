@@ -47,6 +47,7 @@ section {
 
 
 #thebahamas {
+  grid-area: thebahamas;
   grid-column: 1 / span 3;
   background-color: rgba(200, 50, 20, 0.5);
 }
