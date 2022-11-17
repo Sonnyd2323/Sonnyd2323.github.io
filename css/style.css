@@ -88,16 +88,16 @@ section {
 
 }
 
-#communications {
+.communications {
   grid-area: communications;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr;
   grid-template-areas:
     "telephones broadcastmedia internetusers";
-    /*
+
   grid-column: 2 / span 2;
-  */
+
 
 }
 
