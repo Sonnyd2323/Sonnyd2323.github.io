@@ -83,6 +83,7 @@ section {
 }
 
 #energy {
+  grid-template-columns: 1fr 1fr;
   grid-area: energy;
 
 }
