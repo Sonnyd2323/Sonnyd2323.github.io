@@ -38,6 +38,12 @@ h1 {
 }
 */
 
+section {
+  background-color: #ddd;
+  padding: 20px;
+}
+
+
 
 
 #thebahamas {
@@ -55,6 +61,7 @@ h1 {
 
 #energy {
   grid-area: energy;
+
 }
 
 #communications {
