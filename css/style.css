@@ -15,7 +15,7 @@ body {
 main {
   border: 2px dashed #111;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 2fr 1fr;
   grid-gap: 20px;
   grid-template-areas:
     "picture1 introduction introduction"
