@@ -68,7 +68,7 @@ section {
 
 #thebahamas {
   grid-area: thebahamas;
-  grid-column: 1 / span 3;
+  grid-column: 2 / span 1;
   background-color: rgba(150, 241, 242, 0.5);
 }
 
@@ -86,7 +86,7 @@ section {
 
 #communications {
   grid-area: communications;
-  
+
 }
 
 
