@@ -89,7 +89,7 @@ section {
 }
 
 #communications {
-  grid-template-columns: repeat(1, 1fr);
+  grid-template-columns: 1fr 1fr 1fr;
   grid-template-areas:
     "telephones broadcastmedia internetusers"
     "telephones broadcastmedia internetusers";
