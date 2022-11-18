@@ -12,6 +12,7 @@ header {
 body {
   font-family: "Poppins", "Open Sans", "Arial", sans-serif;
   background-color: black;
+  overflow: auto;
 }
 
 main {
