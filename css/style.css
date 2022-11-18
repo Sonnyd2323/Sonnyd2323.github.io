@@ -2,24 +2,22 @@
 
 
 
-
-header {
-  width: 1920px;
-  display: grid;
-  grid-template-columns: 3fr;
-  grid-template-areas: "thebahamas thebahamas thebahamas";
-  color: rgba(255,255,255)
-
-
-
-
+abbr {
 
 }
+
+header {
+  display: grid;
+  grid-template-columns: 3fr;
+  grid-template-areas: "thebahamas";
+  color: rgba(255,255,255)
+
+}
+
 
 body {
   font-family: Arial, sans-serif;
   border: 2px dashed #111;
-
 }
 
 
@@ -52,15 +50,15 @@ a:link {
 }
 
 a:visited {
-  color:
+  color: rgb(255,255,255)
 }
 
 a:hover {
-  color:
+  color: rgb(0,0,0)
 }
 
 a:active {
-  color:
+  color: rgb(135,206,235)
 }
 /*
 main {
@@ -95,12 +93,14 @@ section {
 
 #introduction {
   grid-area: introduction;
+  line-height: 30px;
+  max-width: 568px;
 
 }
 
 #geography {
   grid-area: geography;
-  max-height: 450px;
+  max-height: 500px;
 }
 
 #energy {
