@@ -9,6 +9,24 @@ header {
   line-height: 40px;
 }
 
+body {
+  font-family: 'Poppins', 'Open Sans', 'Arial', sans-serif;
+  background-color: black;
+}
+
+main {
+  border: 2px dashed #111;
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(auto-fit, minmax(299px, 1fr));
+}
+
+section {
+  background-color: rgb(26, 26, 26);
+  padding: 12px;
+  margin: 0;
+}
+
 h2, h3 {
   padding: 0;
   margin: 0;
@@ -34,18 +52,6 @@ table, ul {
   font-family: 'Open Sans', sans-serif;
 }
 
-body {
-  font-family: Arial, sans-serif;
-  background-color: black;
-}
-
-main {
-  border: 2px dashed #111;
-  display: grid;
-  grid-gap: 10px;
-  grid-template-columns: repeat(auto-fit, minmax(299px, 1fr));
-}
-
 p {
   font-family: 'Open Sans', sans-serif;
   color: rgb(195, 195, 195);
@@ -64,21 +70,16 @@ a:visited {
 }
 
 a:hover {
-  color: rgb(0,0,0)
+  color: rgb(148,230,218)
 }
 
 a:active {
   color: rgb(135,206,235)
 }
 
-section {
-  background-color: rgb(26, 26, 26);
-  padding: 12px;
-  margin: 0;
-}
-
-abbr {
-
+abbr[title] {
+  text-decoration-color: rgb(148, 230, 218);
+  text-decoration-style: wavy;
 }
 
 .headingTable {
