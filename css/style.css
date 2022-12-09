@@ -56,7 +56,7 @@ main {
 }
 
 section {
-  background-color: rgb(186, 223, 231);
+  background-color: rgb(194, 237, 206);
   padding: 12px;
   margin: 0;
 }
@@ -88,7 +88,7 @@ table, ul {
 
 p {
   font-family: "Open Sans", "Arial", sans-serif;
-  color: rgb(195, 195, 195);
+  color: rgb(56, 128, 135);
   line-height: 26px;
 }
 
