@@ -173,14 +173,8 @@ abbr[title] {
 #internetusers {
 }
 
-#picture1 {
-  margin: 15px;
 
-}
 
 #officialwebsite{
   grid-area: span 1 / span 2
-}
-
-#picture2 {
 }
