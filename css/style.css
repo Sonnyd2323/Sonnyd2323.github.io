@@ -149,8 +149,9 @@ abbr[title] {
 
 }
 
-#geography {
-  max-height: 500px;
+#awards {
+  line-height: 30px;
+  max-width: 568px;
 }
 
 #energy {
