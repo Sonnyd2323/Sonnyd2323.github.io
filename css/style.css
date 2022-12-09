@@ -36,7 +36,7 @@ nav a:hover {
 header {
   display: grid;
   grid-template-columns: 3fr;
-  grid-template-areas: "thebahamas";
+  grid-template-areas: "SonnyCartonBroadcasting";
   color: rgb(195, 195, 195);
   margin-bottom: 8px;
   line-height: 40px;
@@ -132,7 +132,7 @@ abbr[title] {
   width: fit-content;
 }
 
-#thebahamas {
+#SonnyCartonBroadcasting {
   grid-column: 1 / span 3;
   background-color: rgb(26, 26, 26);
   font-family: "Poppins", "Arial", sans-serif;
