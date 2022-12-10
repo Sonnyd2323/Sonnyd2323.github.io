@@ -146,6 +146,7 @@ abbr[title] {
 #introduction {
   line-height: 30px;
   max-width: 568px;
+  grid-area: 1 / span 3;
 
 }
 
