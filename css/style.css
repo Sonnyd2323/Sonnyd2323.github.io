@@ -55,6 +55,14 @@ main {
   grid-template-columns: repeat(auto-fit, minmax(299px, 1fr));
 }
 
+
+.futurepage {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: 1fr, 1fr;
+
+}
+
 section {
   background-color: rgb(26, 26, 26);
   padding: 12px;
@@ -132,6 +140,8 @@ abbr[title] {
   width: fit-content;
 }
 
+
+/*
 #SonnyCartonBroadcasting {
   grid-column: 1 / span 3;
   background-color: rgb(26, 26, 26);
