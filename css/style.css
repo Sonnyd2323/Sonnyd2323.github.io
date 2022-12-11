@@ -55,6 +55,12 @@ main {
   grid-template-columns: repeat(auto-fit, minmax(299px, 1fr));
 }
 
+#journey {
+  display: grid;
+  grid-template-columns: 1fr, 1fr, 1fr, 1fr;
+  grid-template-areas:
+}
+
 
 
 section {
@@ -136,7 +142,7 @@ abbr[title] {
 }
 
 
-/*
+
 #SonnyCartonBroadcasting {
   grid-column: 1 / span 3;
   background-color: rgb(26, 26, 26);
@@ -147,6 +153,29 @@ abbr[title] {
   padding: 10px;
   line-height: 40px;
 }
+
+#broadcastjourney {
+  grid-column: 1 / span 3;
+  background-color: rgb(26, 26, 26);
+  font-family: "Poppins", "Arial", sans-serif;
+  font-size: 40px;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  padding: 10px;
+  line-height: 40px;
+}
+
+#futureplans {
+  grid-column: 1 / span 3;
+  background-color: rgb(26, 26, 26);
+  font-family: "Poppins", "Arial", sans-serif;
+  font-size: 40px;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  padding: 10px;
+  line-height: 40px;
+}
+
 
 #introduction {
   line-height: 30px;
