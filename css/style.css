@@ -109,6 +109,9 @@ figcaption {
   color: rgb(195,195,195);
   font-family: "Open Sans", "Arial", sans-serif;
   font-size: 13px;
+  margin: auto;
+  display: block;
+  width: fit-content;
 }
 
 
