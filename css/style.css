@@ -127,11 +127,11 @@ a:visited {
 }
 
 a:hover {
-  color: rgb(148,230,218);
+  color: rgb(63, 170, 242);
 }
 
 a:active {
-  color: rgb(63, 170, 242);
+  color: rgb(148,230,218);
 }
 
 abbr[title] {
