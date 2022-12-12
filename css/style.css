@@ -86,7 +86,7 @@ h2 {
 }
 
 h3 {
-  color: rgb(63, 170, 242);  148, 230, 218 - 3, 152, 252
+  color: rgb(63, 170, 242);
   font-family: "Arial", sans-serif;
 }
 
@@ -100,14 +100,14 @@ table, ul {
 
 
 p {
-  font-family: "Open Sans", "Arial", sans-serif;
+  font-family: "Open Sans", "Arial" "Helvetica", sans-serif;
   color: rgb(195, 195, 195);
   line-height: 26px;
 }
 
 figcaption {
   color: rgb(195,195,195);
-  font-family: "Open Sans", "Arial", sans-serif;
+  font-family: "Open Sans", "Arial", "Helvetica" sans-serif;
   font-size: 13px;
   margin: auto;
   display: block;
@@ -247,13 +247,6 @@ margin-left: -25px;
 }
 
 
-/*
-.headingTable {
-  margin-bottom: 10px;
-  font-weight: bold;
-  font-size: 16px;
-}
-*/
 .podvids {
   margin: auto;
   display: block;
@@ -267,4 +260,3 @@ margin-left: -25px;
   display: block;
   width: fit-content;
 }
-*/
