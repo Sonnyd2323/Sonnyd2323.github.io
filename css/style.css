@@ -81,7 +81,7 @@ h2 {
 }
 
 h3 {
-  color: rgb(148, 230, 218);
+  color: rgb(63, 170, 242);  148, 230, 218 - 3, 152, 252
   font-family: "Arial", sans-serif;
 }
 
@@ -194,6 +194,14 @@ h1 {
   grid-template-rows: 1fr, 1fr;
   grid-template-areas: "howdid whybroad"
                        "pastwork pastwork"
+}
+
+#Ustadshow {
+  margin-top: 30px;
+}
+
+#finalvarsity, #waitingsoccer {
+  margin-top: 10px;
 }
 
 #contactme {
