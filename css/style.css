@@ -85,12 +85,14 @@ h3 {
   font-family: "Arial", sans-serif;
 }
 
+
 table, ul {
   margin-top: 10px;
   color: rgb(195, 195, 195);
   display: block;
   font-family: "Open Sans", "Arial", sans-serif;
 }
+
 
 p {
   font-family: "Open Sans", "Arial", sans-serif;
@@ -189,9 +191,13 @@ h1 {
                        "pastwork pastwork"
 }
 
-"
+#contactme {
+margin-left: -25px;
+}
 
-
+#skills {
+  margin-left: -25px;
+}
 
 /*
 .headingTable {
