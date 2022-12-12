@@ -48,6 +48,7 @@ body {
   overflow: auto;
 }
 
+
 main {
   border: 2px dashed #111;
   display: grid;
@@ -198,10 +199,23 @@ h1 {
 #brjourney {
   display: grid;
   grid-template-columns: 1fr, 1fr;
-  grid-template-rows: 1fr, 1fr;
+  grid-template-rows: 1fr;
   grid-template-areas: "howdid whybroad"
-                       "pastwork pastwork"
+                       "pastwork pastwork";
 }
+
+#howdid {
+  grid-area: "howdid";
+}
+
+#whybroad {
+  grid-area: "whybroad";
+}
+
+#pastwork {
+  grid-area: "pastwork";
+}
+
 
 #Ustadshow {
   margin-top: 30px;
