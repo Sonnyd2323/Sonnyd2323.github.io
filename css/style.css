@@ -44,6 +44,8 @@ header {
   line-height: 40px;
 }
 
+
+
 body {
   font-family: "Poppins", "Open Sans", "Arial", sans-serif;
   background-color: rgb(0, 0, 0);
@@ -56,13 +58,13 @@ main {
   grid-gap: 10px;
   grid-template-columns: repeat(auto-fit, minmax(299px, 1fr));
 }
-/*
+
 #journey {
   display: grid;
   grid-template-columns: 1fr, 1fr, 1fr, 1fr;
   grid-template-areas:
 }
-*/
+
 
 
 section {
@@ -130,23 +132,6 @@ abbr[title] {
 
 }
 
-.headingTable {
-  margin-bottom: 10px;
-  font-weight: bold;
-  font-size: 16px;
-}
-
-.websiteImage {
-  height: 300px;
-}
-
-.websiteImages {
-  margin: auto;
-  display: block;
-  width: fit-content;
-}
-
-
 
 #SonnyCartonBroadcasting {
   grid-column: 1 / span 3;
@@ -158,8 +143,21 @@ abbr[title] {
   padding: 10px;
   line-height: 40px;
   width: 100%;
-
 }
+
+
+#futureplans {
+  grid-column: 1 / span 3;
+  background-color: rgb(26, 26, 26);
+  font-family: "Poppins", "Arial", sans-serif;
+  font-size: 40px;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  padding: 10px;
+  line-height: 40px;
+  width: 100%;
+
+
 
 h1 {
   width: 100%;
@@ -176,17 +174,7 @@ h1 {
   margin-block-end: 0;
   padding: 10px;
   line-height: 40px;
-}
-
-#futureplans {
-  grid-column: 1 / span 3;
-  background-color: rgb(26, 26, 26);
-  font-family: "Poppins", "Arial", sans-serif;
-  font-size: 40px;
-  margin-block-start: 0;
-  margin-block-end: 0;
-  padding: 10px;
-  line-height: 40px;
+  width: 100%;
 }
 
 
@@ -202,27 +190,23 @@ h1 {
   max-width: 568px;
 }
 
-#energy {
+
+
+
+/*
+.headingTable {
+  margin-bottom: 10px;
+  font-weight: bold;
+  font-size: 16px;
 }
 
-#communications {
-  grid-area: span 2 / span 1;
-
+.websiteImage {
+  height: 300px;
 }
 
-#telephones {
-  min-width: 200px;
+.websiteImages {
+  margin: auto;
+  display: block;
+  width: fit-content;
 }
-
-#broadcastmedia {
-
-}
-
-#internetusers {
-}
-
-
-
-#officialwebsite{
-  grid-area: span 1 / span 2
-}
+*/
