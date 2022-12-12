@@ -6,6 +6,7 @@ nav {
   background-color: #333;
   color: #fff;
   padding: 20px;
+  font-family: "Poppins, Arial", sans-serif;
 }
 
 nav ul {
@@ -100,14 +101,15 @@ table, ul {
 
 
 p {
-  font-family: "Open Sans", "Arial" "Helvetica", sans-serif;
+  font-family: "Open Sans", "Arial" , sans-serif;
   color: rgb(195, 195, 195);
   line-height: 26px;
 }
 
+
 figcaption {
   color: rgb(195,195,195);
-  font-family: "Open Sans", "Arial", "Helvetica" sans-serif;
+  font-family: "Open Sans", "Arial", sans-serif;
   font-size: 13px;
   margin: auto;
   display: block;
@@ -117,19 +119,19 @@ figcaption {
 
 
 a:link {
-  color: rgb(148, 230, 218)
+  color: rgb(148, 230, 218);
 }
 
 a:visited {
-  color: rgb(255,255,255)
+  color: rgb(255,255,255);
 }
 
 a:hover {
-  color: rgb(148,230,218)
+  color: rgb(148,230,218);
 }
 
 a:active {
-  color: rgb(135,206,235)
+  color: rgb(135,206,235);
 }
 
 abbr[title] {
