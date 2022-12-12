@@ -30,7 +30,9 @@ nav a:hover {
 }
 
 
-
+#allstart {
+  width: fit-content;
+}
 
 
 header {
@@ -54,13 +56,13 @@ main {
   grid-gap: 10px;
   grid-template-columns: repeat(auto-fit, minmax(299px, 1fr));
 }
-
+/*
 #journey {
   display: grid;
   grid-template-columns: 1fr, 1fr, 1fr, 1fr;
   grid-template-areas:
 }
-
+*/
 
 
 section {
@@ -125,7 +127,7 @@ abbr[title] {
 }
 
 #introduction section {
-  
+
 }
 
 .headingTable {
@@ -155,7 +157,15 @@ abbr[title] {
   margin-block-end: 0;
   padding: 10px;
   line-height: 40px;
+  width: 100%;
+
 }
+
+h1 {
+  width: 100%;
+
+}
+
 
 #broadcastjourney {
   grid-column: 1 / span 3;
