@@ -101,7 +101,9 @@ p {
 }
 
 figcaption {
-  color: white;
+  color: rgb(255,255,255);
+  font-family: "Poppins", "Arial", sans-serif;
+  font-size: 13px;
 }
 a:link {
   color: rgb(148, 230, 218)
