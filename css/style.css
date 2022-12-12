@@ -30,10 +30,6 @@ nav a:hover {
 }
 
 
-#allstart {
-  width: fit-content;
-}
-
 
 header {
   display: grid;
@@ -70,6 +66,10 @@ section {
 h2, h3 {
   padding: 0;
   margin: 0;
+}
+
+h4 {
+  color:rgb(255,255,255)
 }
 
 h2 {
@@ -173,7 +173,6 @@ h1 {
   line-height: 30px;
   max-width: 568px;
   grid-area: 1 / span 3;
-
 }
 
 #awards {
@@ -181,6 +180,16 @@ h1 {
   max-width: 568px;
 }
 
+
+#brjourney {
+  display: grid;
+  grid-template-columns: 1fr, 1fr;
+  grid-template-rows: 1fr, 1fr;
+  grid-template-areas: "howdid whybroad"
+                       "pastwork pastwork"
+}
+
+"
 
 
 
@@ -190,12 +199,15 @@ h1 {
   font-weight: bold;
   font-size: 16px;
 }
-
-.websiteImage {
-  height: 300px;
+*/
+.podvids {
+  margin: auto;
+  display: block;
+  width: fit-content;
 }
 
-.websiteImages {
+
+.websiteImage {
   margin: auto;
   display: block;
   width: fit-content;
