@@ -119,11 +119,11 @@ figcaption {
 
 
 a:link {
-  color: rgb(148, 230, 218);
+  color: rgb(255,255,255);
 }
 
 a:visited {
-  color: rgb(255,255,255);
+  color: rgb(63,170,242);
 }
 
 a:hover {
