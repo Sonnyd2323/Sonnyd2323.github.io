@@ -59,12 +59,6 @@ main {
   grid-template-columns: repeat(auto-fit, minmax(299px, 1fr));
 }
 
-#journey {
-  display: grid;
-  grid-template-columns: 1fr, 1fr, 1fr, 1fr;
-  grid-template-areas:
-}
-
 
 
 section {
@@ -128,9 +122,6 @@ abbr[title] {
   text-decoration-style: wavy;
 }
 
-#introduction section {
-
-}
 
 
 #SonnyCartonBroadcasting {
@@ -156,7 +147,7 @@ abbr[title] {
   padding: 10px;
   line-height: 40px;
   width: 100%;
-
+}
 
 
 h1 {
